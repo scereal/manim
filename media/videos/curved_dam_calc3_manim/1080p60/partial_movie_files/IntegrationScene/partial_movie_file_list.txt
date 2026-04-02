@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/2723767029_3515878321_2023860264.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/2945899723_3256444894_998819433.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3118893515_382852847_182773596.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3118893515_2741046241_250522615.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3118893515_3008987692_1485299792.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3118893515_2346464305_1963650825.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3118893515_4265993507_2794610470.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3118893515_311403233_1758939165.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/3919396271_1941315743_183639060.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/764068390_2751050812_1512039895.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/curved_dam_calc3_manim/1080p60/partial_movie_files/IntegrationScene/764068390_4073845205_1404184555.mp4'

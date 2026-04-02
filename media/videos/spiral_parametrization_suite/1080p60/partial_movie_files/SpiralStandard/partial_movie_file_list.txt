@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/2215127584_243175015_223132457.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/4092364542_78780043_3588258383.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/4092364542_1921040810_3219752246.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/4092364542_1690090709_1046914584.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/4092364542_2238257985_3158948638.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/4092364542_310540274_1840585314.mp4'
+file 'file:C:/Users/sc149/OneDrive/Documents/GitHub/manim/media/videos/spiral_parametrization_suite/1080p60/partial_movie_files/SpiralStandard/4092364542_2816250947_179811640.mp4'
